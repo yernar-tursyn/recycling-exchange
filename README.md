@@ -30,3 +30,11 @@ This project is a web application for a recycling exchange platform. It displays
 - `types/`: TypeScript type definitions
 - `__tests__/`: Unit tests
 - `pages/`: Next.js pages
+
+## UML Diagrams
+
+### Component Diagram
+![Component Diagram](docs/component-diagram.md)
+
+### Class Diagram
+![Class Diagram](docs/class-diagram.md)
